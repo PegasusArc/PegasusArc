@@ -20,7 +20,7 @@
 
 **City University of Hong Kong**  
 *Bachelor of Engineering in Computer and Data Engineering*  
-'Expected-2027` | 
+Expected-2027 | Underwater Robotics@ CityUHK| CALAS Research @CityUHK
 
 **Relevant Coursework**: 
 - Introduction to Computer Programming (Python)
