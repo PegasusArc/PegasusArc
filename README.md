@@ -19,10 +19,11 @@
 ## 🎓 Education
 
 **City University of Hong Kong**  
-*Bachelor of Engineering in Computer and Data Engineering*  
-**Clubs and Research Work**
-| Underwater Robotics@ CityUHK
-| CALAS Research @CityUHK
+*Bachelor of Engineering in Computer and Data Engineering* 
+
+**Clubs and Research Work**:
+-Underwater Robotics@ CityUHK
+-CALAS Research @CityUHK
 
 **Relevant Coursework**: 
 - Introduction to Computer Programming (Python)
