@@ -20,12 +20,13 @@
 
 **City University of Hong Kong**  
 *Bachelor of Engineering in Computer and Data Engineering*  
-Expected-2027 | Underwater Robotics@ CityUHK| CALAS Research @CityUHK
+**Clubs and Research Work**
+| Underwater Robotics@ CityUHK
+| CALAS Research @CityUHK
 
 **Relevant Coursework**: 
 - Introduction to Computer Programming (Python)
 - Data Structures and Algorithms (C++)
-- Database Systems
 - Foundation of Information Analytics
 - Fundamentals of Data Science
 - Applications of Game Theory to Business
@@ -73,7 +74,7 @@ Expected-2027 | Underwater Robotics@ CityUHK| CALAS Research @CityUHK
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-**Areas of Expertise**:  
+**Areas of Interests**:  
 Machine Learning • Artificial Intelligence • Algorithm Design • FPGA Design • Data Analytics • Computational Finance
 
 ---
