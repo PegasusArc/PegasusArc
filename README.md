@@ -129,6 +129,10 @@ Machine Learning • Artificial Intelligence • Algorithm Design • FPGA Desig
 - 🚴‍♂️ Enjoy cycling and swimming
 
 <p align="center">
+  <img src="https://github.com/mishmanners/MishManners/blob/output/github-snake.svg?raw=true" alt="Example Snake Animation" />
+</p>
+
+<p align="center">
   <em>"Engineering solutions that bridge hardware and software"</em>
 </p>
 
