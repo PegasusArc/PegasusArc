@@ -91,7 +91,11 @@ Machine Learning • Artificial Intelligence • Algorithm Design • FPGA Desig
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PegasusArc&show_icons=true&theme=radical&hide_title=true&hide_rank=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PegasusArc&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PegasusArc&layout=compact&theme=radical" alt="Top Languages" />
+  <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PegasusArc&theme=radical">
+    </p>
+  <img src="https://komarev.com/ghpvc/?username=PegasusArc&label=Profile%20views&color=0e75b6&style=flat" alt="PegasusArc" /> 
 </p>
 
 ---
