@@ -20,7 +20,7 @@
 
 **City University of Hong Kong**  
 *Bachelor of Engineering in Computer and Data Engineering*  
-`2023 - 2027` | GPA: 3.52/4.30  
+'Expected-2027` | 
 
 **Relevant Coursework**: 
 - Introduction to Computer Programming (Python)
