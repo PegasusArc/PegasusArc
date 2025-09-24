@@ -111,7 +111,7 @@ Machine Learning • Artificial Intelligence • Algorithm Design • FPGA Desig
   <a href="https://github.com/PegasusArc">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/">
+  <a href="www.linkedin.com/in/praneel-sahu">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
