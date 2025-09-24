@@ -22,7 +22,7 @@
 *Bachelor of Engineering in Computer and Data Engineering* 
 
 **Clubs and Research Work**:
-*Underwater Robotics@ CityUHK*
+*Underwater Robotics@ CityUHK|*
 *CALAS Research @CityUHK*
 
 **Relevant Coursework**: 
