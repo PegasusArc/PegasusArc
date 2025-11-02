@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-  Computer & Data Engineering Student | Machine Learning Enthusiast | FPGA Developer
+  Computer & Data Engineering Student | Machine Learning And Computational Finance Enthusiast | FPGA Developer
 </h3>
 
 <p align="center">
