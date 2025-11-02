@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=539BF5&center=true&vCenter=true&width=550&lines=Passionate+about+ML+and+AI+solutions;Experienced+in+FPGA+and+hardware+design;Data+Science+and+Analytics+enthusiast;Always+learning+and+building+new+things"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=539BF5&center=true&vCenter=true&width=550&lines=Passionate+about+ML+and+AI+solutions;Experienced+in+FPGA+and+hardware+design;Data+Science+and+Computational+Finance+enthusiast;Always+learning+and+building+new+things;Learning+about+Trading+Algorithms+And+Systems "/>
 </p>
 
 ---
