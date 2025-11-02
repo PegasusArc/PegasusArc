@@ -120,7 +120,8 @@ Machine Learning • Artificial Intelligence • Algorithm Design • FPGA Desig
 
 ## 🎯 Currently Learning
 
-- Advanced Machine Learning techniques
+- Machine Learning techniques
+- Deep Learning 
 - Computational Finance applications
 - FPGA optimization methods
 - Big Data analytics frameworks
